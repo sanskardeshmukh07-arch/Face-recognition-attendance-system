@@ -66,3 +66,14 @@ python gui.py
 - Pradip Pawar
 - Harshad Jare
 - Rahul Kashid
+
+## Screenshots
+
+### GUI
+![GUI](gui.png)
+
+### Face Recognition
+![Recognition](recognition.png)
+
+### Attendance Output
+![Attendance](Attendance.png)
